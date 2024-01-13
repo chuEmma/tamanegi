@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tamanegi/static/css/main.f855e6bc.css",
+    "main.js": "/tamanegi/static/js/main.8e8824a2.js",
+    "static/js/787.324813c0.chunk.js": "/tamanegi/static/js/787.324813c0.chunk.js",
+    "static/media/logo.svg": "/tamanegi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tamanegi/index.html",
+    "main.f855e6bc.css.map": "/tamanegi/static/css/main.f855e6bc.css.map",
+    "main.8e8824a2.js.map": "/tamanegi/static/js/main.8e8824a2.js.map",
+    "787.324813c0.chunk.js.map": "/tamanegi/static/js/787.324813c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8e8824a2.js"
+  ]
+}
