@@ -1,13 +1,23 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import PrintsPage from './PrintsPage';
 import reportWebVitals from './reportWebVitals';
+import { library } from '@fortawesome/fontawesome-svg-core';
+import { fab } from '@fortawesome/free-brands-svg-icons'
+import { faCircleCheck, faStore, faImage, faCircle} from '@fortawesome/free-solid-svg-icons';
+
+// Add fontAwesome icons
+library.add(faCircleCheck);
+library.add(faStore);
+library.add(faImage);
+library.add(faCircle);
+library.add(fab);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <PrintsPage />
   </React.StrictMode>
 );
 

@@ -1,0 +1,127 @@
+a:link,
+a:visited,
+a:focus {
+    color: unset;
+}
+
+.print-tile {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    gap: 10px;
+}
+
+.print-tile-gallery {
+    display: flex;
+    flex: 1;
+    height: 150px;
+    gap: 10px;
+    overflow-x: auto;
+    padding-bottom: 3px;
+}
+
+.print-tile-gallery::-webkit-scrollbar {
+    background-color: transparent;
+    height: 7px;
+}
+
+.print-tile-gallery::-webkit-scrollbar-thumb {
+    background-color: lightgrey;
+    border-radius: 50px;
+}
+
+.print-tile-image-placeholder {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    height: inherit;
+    background-color: #9DBC98;
+    opacity: 0.75;
+    flex: 1;
+
+    .print-tile-image-placeholder-icon {
+        height: 50px;
+        color: white;
+    }
+}
+
+.print-tile-image {
+    height: inherit;
+    /* TODO */
+    user-drag: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+.print-tile-profile {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    height: 25px;
+
+    .print-tile-name {
+        display: flex;
+        align-self: center;
+        letter-spacing: 1.5px;
+        text-decoration: none;
+        opacity: 0.75;
+        transition: 0.3s;
+    }
+
+    .print-tile-name:hover {
+        color: #9DBC98;
+        opacity: 1;
+    }
+
+    .print-tile-shop {
+        display: flex;
+        gap: 10px;
+        
+        .print-tile-store-container {
+            display: flex;
+            justify-content: center;
+            align-content: center;
+            flex-wrap: wrap;
+            background-color: #9DBC98;
+            border-radius: 100%;
+            width: 25px;
+            height: 25px;
+            opacity: 0.75;
+            transition: 0.3s;
+        }
+
+        .print-tile-store-container:hover {
+            opacity: 1;
+        }
+
+        .print-tile-store-icon {
+            color: white;
+        }
+        
+        .print-tile-store-inprnt-icon{
+            width: 20px;
+            height: 20px;
+        }
+
+        .print-tile-convention-icon {
+            display: flex;
+            justify-content: center;
+            align-content: center;
+            flex-wrap: wrap;
+            letter-spacing: 1.5px;
+            color: #9DBC98;
+            opacity: 0.75;
+        }
+
+        .print-tile-purchased-icon {
+            color: #638889;
+            width: 25px;
+            height: 25px;
+        }
+    }
+}
+

@@ -1,0 +1,346 @@
+{
+    "prints": [
+        {
+            "name": "eggbuttertoast",
+            "link": "https://www.instagram.com/eggbuttertoast/?hl=en",
+            "shopLinks": 
+            {
+                "shop": "https://eggbuttertoast.com/"
+            },
+            "purchased": true
+        },
+        {
+            "name": "jazlynn.art",
+            "link": "https://www.instagram.com/jazlynn.art/?hl=en",
+            "shopLinks": 
+            {
+                "shop": "https://jazlynn.art"
+            },
+            "purchased": true
+        },
+        {
+            "name": "berriemoo",
+            "link": "https://www.instagram.com/berriemoo/?hl=en",
+            "shopLinks": 
+            {
+                "shop": "https://berriemoo.com/"
+            },
+            "purchased": true
+        },
+        {
+            "name": "loveleemine",
+            "link": "https://www.instagram.com/loveleemine/?hl=en",
+            "shopLinks": 
+            {
+                "shop": "https://loveleemine.com/"
+            },
+            "purchased": true
+        },
+        {
+            "name": "tossedleaf",
+            "link": "https://www.instagram.com/tossedleaf/?g=5",
+            "shopLinks": 
+            {
+                "shop": "https://www.tossedleaf.co/"
+            },
+            "purchased": true
+        },
+        {
+            "name": "mochamochicake",
+            "link": "https://www.instagram.com/mochamochicake/?g=5",
+            "shopLinks":
+            {
+                "shop": "https://mochamochicake.com/",
+                "etsy": "https://www.etsy.com/shop/mochamochicake?source=aw&utm_source=affiliate_window&utm_medium=affiliate&utm_campaign=us_location_buyer&utm_content=946733&utm_custom1=13246556&utm_term=0&awc=6220_1700364802_a296282c32ad763fb220d281d19fd78c"
+            },
+            "purchased": true
+        },
+        {
+            "name": "myangart",
+            "link": "https://www.instagram.com/myangart/?hl=en",
+            "shopLinks": 
+            {
+                "shop": "https://myangart.bigcartel.com/category/prints"
+            },
+            "conventions": ["AnimeExpo"],
+            "purchased": false
+        },
+        {
+            "name": "nemupan",
+            "link": "https://www.instagram.com/nemupan/?hl=en",
+            "shopLinks": 
+            {
+                "inPrnt": "https://www.inprnt.com/gallery/nemupan/"
+            },
+            "conventions": ["AnimeExpo"],
+            "purchased": false
+        },
+        {
+            "name": "jauni / tofublock",
+            "altName": "jauni",
+            "link": "https://www.instagram.com/jaunini/?hl=en",
+            "shopLinks": 
+            {
+                "shop": "https://tofublock.bigcartel.com/",
+                "inPrnt": "https://www.inprnt.com/gallery/tofublock/"
+            },
+            "purchased": false
+        }, 
+        {
+            "name": "_cheumi",
+            "link": "https://www.instagram.com/_cheumi/?hl=en",
+            "shopLinks": 
+            {
+                "shop": "https://www.etsy.com/shop/CheumiArt"
+            },
+            "purchased": false
+        },
+        {
+            "name": "sushiboiiiyy",
+            "link": "https://www.instagram.com/sushiboiiiyy/?hl=en",
+            "shopLinks": 
+            {
+                "shop": "https://www.sushiboiiiyy.com/"
+            },
+            "purchased": false
+        },
+        {
+            "name": "ramonnelli",
+            "link": "https://www.instagram.com/ramonnelli/?hl=en&g=5",
+            "shopLinks":
+            {
+                "shop": "https://www.ramona-wultschner.de/shop"
+            },
+            "purchased": false
+        },
+        {
+            "name": "lady_tea",
+            "link": "https://www.instagram.com/lady_tea/?hl=en&g=5",
+            "shopLinks":
+            {
+                "inPrnt": "https://www.inprnt.com/gallery/trudi/"
+            },
+            "purchased": false
+        },
+        {
+            "name": "kidurara",
+            "link": "https://www.instagram.com/kidurarara/?hl=en&g=5",
+            "shopLinks": 
+            {
+                "shop": "https://www.kidura.co.uk/"
+            },
+            "purchased": false
+        },
+        {
+            "name": "munespice",
+            "link": "https://www.instagram.com/munespice/?hl=en&g=5",
+            "shopLinks": 
+            {
+                "shop": "https://munespice.com/"
+            },
+            "conventions": ["AnimeExpo"],
+            "purchased": false
+        },
+        {
+            "name": "heikala",
+            "link": "https://www.instagram.com/heikala/?g=5",
+            "shopLinks":
+            {
+                "shop": "https://heikala.com/collections/frontpage"
+            },
+            "purchased": false
+        },
+        {
+            "name": "brycekhodraws",
+            "link": "https://www.instagram.com/brycekhodraws/?g=5",
+            "shopLinks":
+            {
+                "shop": "https://www.etsy.com/shop/BryceKhoArt?ref=seller-platform-mcnav"
+            },
+            "conventions": ["AnimeExpo"],
+            "purchased": false
+        },
+        {
+            "name": "tele.telo",
+            "link": "https://www.instagram.com/tele.telo/",
+            "shopLinks":
+            {
+                "shop": "https://www.teletelo.com/category/prints"
+            },
+            "purchased": false
+        },
+        {
+            "name": "nekomori",
+            "link": "https://www.instagram.com/nekomori.art/?hl=en",
+            "shopLinks":
+            {
+                "shop": "https://mushroomy.house/collections/nekomori-art"
+            },
+            "purchased": false
+        },
+        {
+            "name": "guri__ming",
+            "link": "https://www.instagram.com/guri__ming/?hl=en&g=5",
+            "shopLinks":
+            {
+                "shop": "https://www.instagram.com/guri__ming/?hl=en&g=5"
+            },
+            "purchased": false
+        },
+        {
+            "name": "peanut.draws",
+            "link": "https://www.instagram.com/peanut.draws/?hl=en&img_index=1",
+            "shopLinks":
+            {
+                "shop": "https://thegreatpeanut.bigcartel.com/"
+            },
+            "conventions": ["AnimeExpo"],
+            "purchased": false
+        },
+        {
+            "name": "by.sau",
+            "link": "https://www.instagram.com/by.sau/",
+            "shopLinks":
+            {
+                "inPrnt": "https://www.inprnt.com/gallery/bysau/"
+            },
+            "conventions": ["AnimeExpo"],
+            "purchased": false
+        },
+        {
+            "name": "velvet_kt",
+            "link": "https://www.instagram.com/velvet_kt/tagged/?hl=en",
+            "shopLinks":
+            {
+                "shop": "https://www.velvetkt.com/"
+            },
+            "conventions": ["AnimeExpo"],
+            "purchased": false
+        },
+        {
+            "name": "okieiforgot",
+            "link": "https://www.instagram.com/okieiforgot/?hl=en&g=5",
+            "shopLinks":
+            {
+                "inPrnt": "https://www.inprnt.com/gallery/to00fu/"
+            },
+            "purchased": false
+        },
+        {
+            "name": "nachozarts",
+            "link": "https://www.instagram.com/nachozarts/?hl=en",
+            "conventions": ["AnimeExpo"],
+            "purchased": false
+        },
+        {
+            "name": "kiraixsuki",
+            "link": "https://www.instagram.com/kiraixsuki/?g=5",
+            "shopLinks":
+            {
+                "inPrnt": "https://www.inprnt.com/gallery/kiraixsuki/"
+            },
+            "purchased": false
+        },
+        {
+            "name": "sheya_tin",
+            "link": "https://www.instagram.com/sheya_tin/",
+            "conventions": ["AnimeExpo"],
+            "purchased": false
+        },
+        {
+            "name": "satoko77_kyy",
+            "link": "https://www.instagram.com/satoko77_kyy/",
+            "shopLinks":
+            {
+                "inPrnt": "https://www.inprnt.com/gallery/satoko77_kyy/"
+            },
+            "purchased": false
+        },
+        {
+            "name": "dioknarf",
+            "link": "https://www.instagram.com/dioknarf/?hl=en",
+            "shopLinks":
+            {
+                "inPrnt": "https://www.inprnt.com/gallery/dioknarf/"
+            },
+            "purchased": false
+        },
+        {
+            "name": "bunnycreams",
+            "link": "https://www.instagram.com/bunnycreams/",
+            "shopLinks": 
+            {
+                "shop": "https://www.bunnycreams.com/",
+                "etsy": "https://www.etsy.com/shop/Nattsan/"
+            },
+            "purchased": false
+        },
+        {
+            "name": "orenjikun",
+            "link": "https://www.instagram.com/orenjikun/",
+            "shopLinks": 
+            {
+                "shop": "https://www.orenjikun.art/"
+            },
+            "conventions": ["AnimeExpo"],
+            "purchased": false
+        },
+        {
+            "name": "mooooonbug",
+            "link": "https://www.instagram.com/mooooonbug/",
+            "shopLinks":
+            {
+                "inPrnt": "https://www.inprnt.com/gallery/mooooonbug/"
+            },
+            "purchased": false
+        },
+        {
+            "name": "seerlight",
+            "link": "https://www.instagram.com/seerlight/",
+            "shopLinks":
+            {
+                "shop": "https://www.seertide.com/"
+            },
+            "conventions": ["AnimeExpo"],
+            "purchased": false
+        },
+        {
+            "name": "beanynne",
+            "link": "https://www.instagram.com/beanynne/",
+            "shopLinks": 
+            {
+                "inPrnt": "https://www.inprnt.com/gallery/beanynne/"
+            },
+            "purchased": false
+        },
+        {
+            "name": "talbi_illust",
+            "link": "https://www.instagram.com/talbi_illust/",
+            "shopLinks":
+            {
+                "shop": "https://m.illunism.com/category/talbi/419/"
+            },
+            "purchased": false
+        },
+        {
+            "name": "rainubrew",
+            "link": "https://www.instagram.com/rainubrew/?g=5",
+            "shopLinks": 
+            {
+                "shop": "https://www.rainubrew.com/"
+            },
+            "conventions": ["AnimeExpo"],
+            "purchased": false
+        },
+        {
+            "name": "instant_onion",
+            "link": "https://www.instagram.com/instant_onion/?g=5",
+            "shopLinks":
+            {
+                "shop": "https://www.onionlabs.net/en-ca/"
+            },
+            "conventions": ["AnimeExpo"],
+            "purchased": false
+        }
+    ]
+}
