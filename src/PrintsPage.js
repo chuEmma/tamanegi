@@ -40,7 +40,6 @@ function PrintsPage() {
             <div className="prints">
                 <div className='prints-container'>
                     {createPrintTile()}
-                    <PrintTile name={"Add New Artist"} placeholder={true}></PrintTile>
                 </div>
             </div>
         </div>

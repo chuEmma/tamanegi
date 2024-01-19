@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import inPrnt from "./inprnt.svg";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
-function PrintTile({name, altName, link, purchased, shopList, conventions, placeholder}) {
+function PrintTile({name, altName, link, purchased, shopList, conventions}) {
 
     const getImages = () => {
         // TODO: 
@@ -16,9 +16,9 @@ function PrintTile({name, altName, link, purchased, shopList, conventions, place
     
         if (imageList.length === 0) {
             return (
-            <a className="print-tile-image-placeholder" href="https://github.com/chuEmma/tamanegi/new/main/src/data" target="_blank" rel="noopener noreferrer">
+            <div className="print-tile-image-placeholder">
                 <FontAwesomeIcon className="print-tile-image-placeholder-icon" icon="fa-image"></FontAwesomeIcon>
-            </a>);
+            </div>);
         } else {
             return(
                 imageList.map(image => {
@@ -78,23 +78,13 @@ function PrintTile({name, altName, link, purchased, shopList, conventions, place
         }
     }
 
-    const createNameWithLink = () => {
-        return !placeholder ? 
-        <a className="print-tile-name" href={link} target="_blank" rel="noopener noreferrer">{name}</a> 
-        :  
-        <a className="print-tile-name-placeholder"
-        href={"https://github.com/chuEmma/tamanegi/edit/main/src/data/printsInfo.json"} target="_blank" rel="noopener noreferrer">
-        {name}
-        </a>
-    }
-
     return (
     <div className="print-tile">
         <div className="print-tile-gallery">
             {getImages()}
         </div>
         <div className="print-tile-profile">
-                {createNameWithLink()}
+                <a className="print-tile-name" href={link} target="_blank" rel="noopener noreferrer">{name}</a>
                 <div className="print-tile-shop">
                     {getConventions()}
                     {createShopList()}
@@ -112,7 +102,6 @@ PrintTile.propTypes = {
     purchased: PropTypes.bool,
     shopList: PropTypes.shape(),
     conventions: PropTypes.array,
-    placeholder: PropTypes.bool,
 }
 
 export default PrintTile;
