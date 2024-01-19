@@ -350,6 +350,16 @@
                 "inPrnt": "https://www.inprnt.com/gallery/paji/"
             },
             "purchased": false
+        },
+        {
+            "name": "makohouse",
+            "link": "https://www.instagram.com/makohouse/?e=ad94cc96-7a3c-46fc-8518-aa40f61a29ba&g=5",
+            "shopLinks":
+            {
+                "shop": "https://makohouse.ca/"
+            },
+            "conventions": ["AnimeExpo"],
+            "purchased": false
         }
     ]
 }
