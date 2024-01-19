@@ -341,6 +341,15 @@
             },
             "conventions": ["AnimeExpo"],
             "purchased": false
+        },
+        {
+            "name": "artpaji",
+            "link": "https://www.instagram.com/artpaji/?g=5",
+            "shopLinks":
+            {
+                "inPrnt": "https://www.inprnt.com/gallery/paji/"
+            },
+            "purchased": false
         }
     ]
 }
