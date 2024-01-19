@@ -36,14 +36,21 @@ a:focus {
     align-content: center;
     flex-wrap: wrap;
     height: inherit;
-    background-color: #9DBC98;
-    opacity: 0.75;
+    background-color: white;
+    border: 2px dashed #9DBC98;
+    border-radius: 5px;
+    opacity: 0.3;
+    transition: 0.3s;
     flex: 1;
 
     .print-tile-image-placeholder-icon {
         height: 50px;
-        color: white;
+        color: #9DBC98;
     }
+}
+
+.print-tile-image-placeholder:hover {
+    opacity: 0.75;
 }
 
 .print-tile-image {
@@ -63,6 +70,7 @@ a:focus {
     gap: 10px;
     height: 25px;
 
+    .print-tile-name-placeholder,
     .print-tile-name {
         display: flex;
         align-self: center;
@@ -72,6 +80,11 @@ a:focus {
         transition: 0.3s;
     }
 
+    .print-tile-name-placeholder {
+        color: #9DBC98;
+    }
+
+    .print-tile-name-placeholder:hover,
     .print-tile-name:hover {
         color: #9DBC98;
         opacity: 1;
