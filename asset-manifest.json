@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tamanegi/static/css/main.7c6fdbd4.css",
-    "main.js": "/tamanegi/static/js/main.1ab7d4df.js",
+    "main.js": "/tamanegi/static/js/main.b88cacb7.js",
     "static/js/787.324813c0.chunk.js": "/tamanegi/static/js/787.324813c0.chunk.js",
     "static/media/Screenshot 2024-01-16 001314.png": "/tamanegi/static/media/Screenshot 2024-01-16 001314.db734931974f95adae2d.png",
     "static/media/Screenshot 2024-01-18 181139.png": "/tamanegi/static/media/Screenshot 2024-01-18 181139.2f96d1d64eaba6e5d430.png",
@@ -15,6 +15,7 @@
     "static/media/Screenshot 2024-01-18 181119.png": "/tamanegi/static/media/Screenshot 2024-01-18 181119.6557d0698fc8d31d0d8d.png",
     "static/media/Screenshot 2024-01-18 181036.png": "/tamanegi/static/media/Screenshot 2024-01-18 181036.dc4135a200809ad80ee2.png",
     "static/media/Screenshot 2024-01-15 201950.png": "/tamanegi/static/media/Screenshot 2024-01-15 201950.f0008eba37289f25b1ea.png",
+    "static/media/Screenshot 2024-01-19 185713.png": "/tamanegi/static/media/Screenshot 2024-01-19 185713.58b14d630383e811103d.png",
     "static/media/Screenshot 2024-01-16 001854.png": "/tamanegi/static/media/Screenshot 2024-01-16 001854.e757f173fcc6f2a86d02.png",
     "static/media/Screenshot 2024-01-15 223702.png": "/tamanegi/static/media/Screenshot 2024-01-15 223702.aa4d4579d96bfa594d59.png",
     "static/media/Screenshot 2024-01-15 225900.png": "/tamanegi/static/media/Screenshot 2024-01-15 225900.41ffc02a38e8bb43890c.png",
@@ -27,6 +28,7 @@
     "static/media/Screenshot 2024-01-15 224114.png": "/tamanegi/static/media/Screenshot 2024-01-15 224114.be99e7bde7c2bc697f99.png",
     "static/media/Screenshot 2024-01-15 223649.png": "/tamanegi/static/media/Screenshot 2024-01-15 223649.dc98168bc6b6abfb01a4.png",
     "static/media/Screenshot 2024-01-15 202651.png": "/tamanegi/static/media/Screenshot 2024-01-15 202651.fd3b90dccf7caa3eadd8.png",
+    "static/media/Screenshot 2024-01-19 185647.png": "/tamanegi/static/media/Screenshot 2024-01-19 185647.98a9d83aa86212e43737.png",
     "static/media/Screenshot 2024-01-15 224523.png": "/tamanegi/static/media/Screenshot 2024-01-15 224523.29fb609c96d18bc9b3c8.png",
     "static/media/Screenshot 2024-01-15 225846.png": "/tamanegi/static/media/Screenshot 2024-01-15 225846.103e002e5fa342daed98.png",
     "static/media/Screenshot 2024-01-15 224129.png": "/tamanegi/static/media/Screenshot 2024-01-15 224129.3018fc938f98a01133b2.png",
@@ -88,11 +90,11 @@
     "static/media/inprnt.svg": "/tamanegi/static/media/inprnt.dec0bc745ae4d4919ecede42657c999f.svg",
     "index.html": "/tamanegi/index.html",
     "main.7c6fdbd4.css.map": "/tamanegi/static/css/main.7c6fdbd4.css.map",
-    "main.1ab7d4df.js.map": "/tamanegi/static/js/main.1ab7d4df.js.map",
+    "main.b88cacb7.js.map": "/tamanegi/static/js/main.b88cacb7.js.map",
     "787.324813c0.chunk.js.map": "/tamanegi/static/js/787.324813c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c6fdbd4.css",
-    "static/js/main.1ab7d4df.js"
+    "static/js/main.b88cacb7.js"
   ]
 }
