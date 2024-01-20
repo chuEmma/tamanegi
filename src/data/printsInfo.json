@@ -360,6 +360,15 @@
             },
             "conventions": ["AnimeExpo"],
             "purchased": false
+        },
+        {
+            "name": "jessali_tn",
+            "link": "https://www.instagram.com/jessali_tn/",
+            "shopLinks":
+            {
+                "inPrnt": "https://www.inprnt.com/gallery/jessali_tn/"
+            },
+            "purchased": false
         }
     ]
 }
