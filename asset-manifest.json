@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tamanegi/static/css/main.7c6fdbd4.css",
-    "main.js": "/tamanegi/static/js/main.1ec9540d.js",
+    "main.js": "/tamanegi/static/js/main.343ddd5c.js",
     "static/js/787.324813c0.chunk.js": "/tamanegi/static/js/787.324813c0.chunk.js",
     "static/media/Screenshot 2024-01-16 001314.png": "/tamanegi/static/media/Screenshot 2024-01-16 001314.db734931974f95adae2d.png",
     "static/media/Screenshot 2024-01-22 182729.png": "/tamanegi/static/media/Screenshot 2024-01-22 182729.b4cdeda29578ca1dd6f9.png",
@@ -91,11 +91,11 @@
     "static/media/inprnt.svg": "/tamanegi/static/media/inprnt.dec0bc745ae4d4919ecede42657c999f.svg",
     "index.html": "/tamanegi/index.html",
     "main.7c6fdbd4.css.map": "/tamanegi/static/css/main.7c6fdbd4.css.map",
-    "main.1ec9540d.js.map": "/tamanegi/static/js/main.1ec9540d.js.map",
+    "main.343ddd5c.js.map": "/tamanegi/static/js/main.343ddd5c.js.map",
     "787.324813c0.chunk.js.map": "/tamanegi/static/js/787.324813c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c6fdbd4.css",
-    "static/js/main.1ec9540d.js"
+    "static/js/main.343ddd5c.js"
   ]
 }
