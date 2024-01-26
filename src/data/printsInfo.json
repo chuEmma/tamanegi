@@ -215,7 +215,7 @@
                 "shop": "https://www.velvetkt.com/"
             },
             "conventions": ["AnimeExpo"],
-            "purchased": false
+            "purchased": true
         },
         {
             "name": "okieiforgot",
