@@ -91,7 +91,7 @@
             "link": "https://www.instagram.com/_cheumi/?hl=en",
             "shopLinks": 
             {
-                "shop": "https://www.etsy.com/shop/CheumiArt"
+                "etsy": "https://www.etsy.com/shop/CheumiArt"
             },
             "purchased": false
         },
@@ -155,7 +155,7 @@
             "link": "https://www.instagram.com/brycekhodraws/?g=5",
             "shopLinks":
             {
-                "shop": "https://www.etsy.com/shop/BryceKhoArt?ref=seller-platform-mcnav"
+                "etsy": "https://www.etsy.com/shop/BryceKhoArt?ref=seller-platform-mcnav"
             },
             "conventions": ["AnimeExpo"],
             "purchased": false
@@ -183,7 +183,7 @@
             "link": "https://www.instagram.com/guri__ming/?hl=en&g=5",
             "shopLinks":
             {
-                "shop": "https://www.instagram.com/guri__ming/?hl=en&g=5"
+                "shop": "https://marpple.shop/en/gurimingday?page=1"
             },
             "purchased": false
         },
@@ -367,6 +367,43 @@
             "shopLinks":
             {
                 "inPrnt": "https://www.inprnt.com/gallery/jessali_tn/"
+            },
+            "purchased": false
+        },
+        {
+            "name": "anisopod",
+            "link": "https://www.instagram.com/anisopod/",
+            "shopLinks": 
+            {
+                "etsy": "https://www.etsy.com/shop/anisopodshop?section_id=41698976"
+            },
+            "purchased": false
+        },
+        {
+            "name": "bionyo",
+            "link": "https://www.instagram.com/bionyo/?g=5",
+            "shopLinks": 
+            {
+                "shop": "https://bionyoillustrations.com/"
+            },
+            "conventions": ["AnimeExpo"],
+            "purchased": false
+        },
+        {
+            "name": "yeran_illust",
+            "link": "https://instagram.com/yeran_illust/?g=5",
+            "shopLinks":
+            {
+                "shop": "https://illunism.com/category/yeran/410/"
+            },
+            "purchased": false
+        },
+        {
+            "name": "birkbushka",
+            "link": "https://www.instagram.com/birkbushka/?g=5",
+            "shopLinks":
+            {
+                "etsy": "https://www.etsy.com/shop/birkbushka/?etsrc=sdt" 
             },
             "purchased": false
         }
