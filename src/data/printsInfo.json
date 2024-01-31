@@ -406,6 +406,60 @@
                 "etsy": "https://www.etsy.com/shop/birkbushka/?etsrc=sdt" 
             },
             "purchased": false
+        },
+        {
+            "name": "coco__glez",
+            "link": "https://www.instagram.com/coco__glez/",
+            "shopLinks":
+            {
+                "shop": "https://www.cocoglez.com/"
+            },
+            "purchased": true
+        },
+        {
+            "name": "catpaku",
+            "link": "https://www.instagram.com/catpaku/?g=5",
+            "shopLinks": 
+            {
+                "shop": "https://catpaku.com/"
+            },
+            "purchased": false
+        },
+        {
+            "name": "traannahh",
+            "link": "https://www.instagram.com/traannahh/?g=5",
+            "shopLinks": 
+            {
+
+            },
+            "purchased": false
+        },
+        {
+            "name": "lacelria",
+            "link": "https://www.instagram.com/lacelria/?g=5",
+            "shopLinks":
+            {
+                "shop": "https://lacelria.square.site/"
+            },
+            "purchased": false
+        },
+        {
+            "name": "itskleine",
+            "link": "https://www.instagram.com/itskleine/?g=5",
+            "shopLinks":
+            {
+                "shop": "https://itskleine.com/"   
+            },
+            "purchased": false
+        },
+        {
+            "name": "midori_chann",
+            "link": "https://www.instagram.com/midori_chann/?g=5",
+            "shopLinks":
+            {
+                "etsy": "https://www.etsy.com/shop/midorichann/?etsrc=sdt"
+            },
+            "purchased": false
         }
     ]
 }
