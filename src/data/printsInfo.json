@@ -459,7 +459,7 @@
             {
                 "etsy": "https://www.etsy.com/shop/midorichann/?etsrc=sdt"
             },
-            "purchased": false
+            "purchased": true
         }
     ]
 }
