@@ -229,6 +229,10 @@
         {
             "name": "nachozarts",
             "link": "https://www.instagram.com/nachozarts/?hl=en",
+            "shopLinks":
+            {
+                "shop": "https://www.nachozart.com/"
+            },
             "conventions": ["AnimeExpo"],
             "purchased": false
         },
