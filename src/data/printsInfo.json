@@ -165,7 +165,7 @@
             "link": "https://www.instagram.com/tele.telo/",
             "shopLinks":
             {
-                "shop": "https://www.teletelo.com/category/prints"
+                "etsy": "https://www.etsy.com/shop/teletelo/?etsrc=sdt"
             },
             "purchased": false
         },
@@ -464,6 +464,43 @@
                 "etsy": "https://www.etsy.com/shop/midorichann/?etsrc=sdt"
             },
             "purchased": true
+        },
+        {
+            "name": "milkiteastudios",
+            "link": "https://www.instagram.com/milkiteastudios/?g=5",
+            "shopLinks":
+            {
+                "shop": "https://www.milkiteastudios.com/products"
+            },
+            "purchased": false
+        },
+        {
+            "name": "kirabunni",
+            "link": "https://www.instagram.com/kirabunni/?g=5",
+            "shopLinks":
+            {
+                "inPrnt": "https://www.inprnt.com/gallery/kirabunni/"
+            },
+            "purchased": false
+        },
+        {
+            "name": "parakid",
+            "link": "https://www.instagram.com/parakid/?img_index=1",
+            "shopLinks":
+            {
+                "shop": "https://www.parakidshop.com/",
+                "inPrnt": "https://www.inprnt.com/gallery/parakid/"
+            },
+            "purchased": false
+        },
+        {
+            "name": "hideawaymelon",
+            "link": "https://www.instagram.com/hideawaymelon/",
+            "shopLinks":
+            {
+                "shop": "https://hideawaymelon.com/"
+            },
+            "purchased": false
         }
     ]
 }
