@@ -501,6 +501,24 @@
                 "shop": "https://hideawaymelon.com/"
             },
             "purchased": false
+        },
+        {
+            "name": "deariyue",
+            "link": "https://www.instagram.com/deariyue/",
+            "shopLinks":
+            {
+                "shop": "https://www.shop.yueko.com/"
+            },
+            "purchased": false
+        },
+        {
+            "name": "otakupup",
+            "link": "https://www.instagram.com/otakupup/?g=5",
+            "shopLinks":
+            {
+                "shop": "https://otakupup.bigcartel.com/products"
+            },
+            "purchased": false
         }
     ]
 }
